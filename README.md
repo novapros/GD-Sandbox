@@ -1,2 +1,2 @@
 # GD-Sandbox
-A physics sandbox created in GDevelop
+GDSandbox (or GDS for short) is a simple physics sandbox made in GDevelop.
